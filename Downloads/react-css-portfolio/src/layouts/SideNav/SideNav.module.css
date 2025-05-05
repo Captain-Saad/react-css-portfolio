@@ -1,0 +1,9 @@
+.drawer {
+    display: block;
+  }
+  
+  @media (max-width: 768px) {
+    .drawer {
+      display: none;
+    }
+  }

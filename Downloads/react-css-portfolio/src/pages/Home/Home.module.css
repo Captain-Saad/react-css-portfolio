@@ -1,0 +1,13 @@
+.home {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f9fa;
+  }
+  
+  .home img {
+    transition: transform 0.5s;
+  }
+  
+  .home img:hover {
+    transform: scale(1.1);
+  }
