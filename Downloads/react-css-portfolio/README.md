@@ -10,8 +10,8 @@ A personal portfolio website built with React 18+, MUI v5+, and React Router DOM
 - CSS modules and global styles with CSS variables
 
 ## Screenshots
-![Home Page](screenshots/Screenshot 2025-05-05 221436.png)
-![Contact Form](screenshots/Screenshot 2025-05-05 221739.png)
+![Home Page](screenshots/Screenshot_2025-05-05_221436.png)
+![Contact Form](screenshots/Screenshot_2025-05-05_221739.png)
 
 ## Setup
 1. Clone the repository: `git clone https://github.com/Captain-Saad/react-css-portfolio.git`
